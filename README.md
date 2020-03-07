@@ -1,0 +1,1 @@
+# glodroid_hardware
